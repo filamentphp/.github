@@ -4,7 +4,7 @@
 
 ## About Filament
 
-[Filament](https://filamentphp.com/) is a collection of tools for rapidly building beautiful TALL stack apps, designed for humans.
+[Filament](https://filamentphp.com) is a collection of tools for rapidly building beautiful TALL stack apps, designed for humans.
 
 ## Packages
 
@@ -12,6 +12,9 @@
 - [Form Builder](https://filamentphp.com/docs/forms) - An intuitive Laravel form builder.
 - [Table Builder](https://filamentphp.com/docs/tables) - An interactive Laravel table builder.
 - [Notifications](https://filamentphp.com/docs/notifications) - Powerful Laravel notifications.
+
+## Community
+We have the most welcoming & vibrant community on [Discord](https://filamentphp.com/discord).
 
 ## Resources
 - [Plugins](https://filamentphp.com/plugins) - Composer packages made by our community for Filament projects, giving you access to awesome new features.
