@@ -17,6 +17,7 @@
 We have the most welcoming & vibrant community on [Discord](https://filamentphp.com/discord).
 
 ## Resources
+
 - [Plugins](https://filamentphp.com/plugins) - Composer packages made by our community for Filament projects, giving you access to awesome new features.
 - [Tricks](https://filamentphp.com/tricks) - Reading our community tricks is a great way to discover new, lesser-known features of Filament!
 - [Blog](https://filamentphp.com/blog) - A curated collection of articles written by the Filament team and our community.
