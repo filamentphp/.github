@@ -13,12 +13,15 @@
 - [Table Builder](https://filamentphp.com/docs/tables) - An interactive Laravel table builder.
 - [Notifications](https://filamentphp.com/docs/notifications) - Powerful Laravel notifications.
 
-## Community
-We have the most welcoming & vibrant community on [Discord](https://filamentphp.com/discord).
-
 ## Resources
 
 - [Plugins](https://filamentphp.com/plugins) - Composer packages made by our community for Filament projects, giving you access to awesome new features.
 - [Tricks](https://filamentphp.com/tricks) - Reading our community tricks is a great way to discover new, lesser-known features of Filament!
 - [Blog](https://filamentphp.com/blog) - A curated collection of articles written by the Filament team and our community.
 - [Links](https://filamentphp.com/links) - Blog posts, videos, projects, and other resources from the community.
+
+## Community
+
+The Filament community makes us stand out.
+Up for a chat or need help?
+Join our [Discord community](https://filamentphp.com/discord)!
