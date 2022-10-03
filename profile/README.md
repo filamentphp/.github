@@ -4,16 +4,16 @@
 
 ## About Filament
 
-[Filament](https://filamentphp.com/) is an open source collection of tools for rapidly building beautiful TALL stack apps, designed for humans.
+[Filament](https://filamentphp.com/) is a collection of tools for rapidly building beautiful TALL stack apps, designed for humans.
 
-## Our Packages
+## Packages
 
 - [Admin Panel](https://filamentphp.com/docs/admin) - A fully-featured Laravel admin panel.
 - [Form Builder](https://filamentphp.com/docs/forms) - An intuitive Laravel form builder.
 - [Table Builder](https://filamentphp.com/docs/tables) - An interactive Laravel table builder.
 - [Notifications](https://filamentphp.com/docs/notifications) - Powerful Laravel notifications.
 
-## Additional Resources
+## Resources
 - [Plugins](https://filamentphp.com/plugins) - Composer packages made by our community for Filament projects, giving you access to awesome new features.
 - [Tricks](https://filamentphp.com/tricks) - Reading our community tricks is a great way to discover new, lesser-known features of Filament!
 - [Blog](https://filamentphp.com/blog) - A curated collection of articles written by the Filament team and our community.
