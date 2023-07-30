@@ -1,27 +1,7 @@
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/41773797/131910226-676cb28a-332d-4162-a6a8-136a93d5a70f.png" alt="Banner" style="width: 100%; max-width: 800px;" />
+    <img src="https://github.com/filamentphp/filament/assets/41773797/8d5a0b12-4643-4b5c-964a-56f0db91b90a" alt="Banner" style="width: 100%; max-width: 800px;" />
 </p>
 
-## About Filament
+Filament is a collection of full-stack components for accelerated Laravel development. They are beautifully designed, intuitive to use, and fully extensible - the perfect starting point for your next Laravel app. Why waste time building the same features over and over again?
 
-[Filament](https://filamentphp.com) is a collection of tools for rapidly building beautiful TALL stack apps, designed for humans.
-
-## Packages
-
-- [Admin Panel](https://filamentphp.com/docs/admin) - A fully-featured Laravel admin panel.
-- [Form Builder](https://filamentphp.com/docs/forms) - An intuitive Laravel form builder.
-- [Table Builder](https://filamentphp.com/docs/tables) - An interactive Laravel table builder.
-- [Notifications](https://filamentphp.com/docs/notifications) - Powerful Laravel notifications.
-
-## Resources
-
-- [Plugins](https://filamentphp.com/plugins) - Composer packages made by our community for Filament projects, giving you access to awesome new features.
-- [Tricks](https://filamentphp.com/tricks) - Reading our community tricks is a great way to discover new, lesser-known features of Filament!
-- [Blog](https://filamentphp.com/blog) - A curated collection of articles written by the Filament team and our community.
-- [Links](https://filamentphp.com/links) - Blog posts, videos, projects, and other resources from the community.
-
-## Community
-
-The Filament community makes us stand out.
-Up for a chat or need help?
-Join our [Discord community](https://filamentphp.com/discord)!
+Intrigued? You should be. Visit the [`filamentphp/filament` repository](https://github.com/filamentphp/filament) to see a list of our packages. You can visit our website at [filamentphp.com](https://filamentphp.com), and chat with us on [Discord](https://filamentphp.com/discord).
